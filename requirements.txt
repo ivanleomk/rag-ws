@@ -1,0 +1,7 @@
+instructor==1.2.6
+openai==1.27.0
+jupyter==1.0.0
+datasets==2.19.1
+loguru==0.7.2
+lancedb==0.6.13
+pydantic-settings==2.2.1
