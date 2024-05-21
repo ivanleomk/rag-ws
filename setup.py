@@ -14,7 +14,7 @@ import json
 DATASET = "ms_marco"
 SPLIT = "train"
 CONFIG = "v1.1"
-SLICE = 40
+SLICE = 200
 LANCEDB_PATH = "./lance"
 LANCEDB_TABLE = "ms_marco"
 
@@ -85,6 +85,7 @@ def insert_into_lancedb(data):
         table.add(list(batch))
         total_inserted += len(batch)
     logger.info(f"Total of {total_inserted} records inserted into the database.")
+    table.create_fts_index("text")
 
 
 def save_labels(labels):
