@@ -78,7 +78,9 @@ def generate_data_and_labels(dataset: Dataset):
 
 def insert_into_lancedb(data):
     db = lancedb.connect(LANCEDB_PATH)
+    db.drop_table
     table = db.open_table(LANCEDB_TABLE)
+
     batches = batched(data, 20)
     total_inserted = 0
     for batch in tqdm(batches):
