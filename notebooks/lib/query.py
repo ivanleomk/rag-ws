@@ -1,34 +1,61 @@
-import lancedb
-import json
+from lancedb.table import Table
+from tqdm import tqdm
+from lib.openai_helpers import generate_embeddings
+from lancedb.rerankers import LinearCombinationReranker, CohereReranker
 
 
-def load_jsonl_file(file_path):
+def full_text_search(table: Table, queries, top_k):
     data = []
-    with open(file_path, "r") as file:
-        for line in file:
-            json_obj = json.loads(line.strip())
-            data.append(json_obj)
+    for query in tqdm(queries):
+        items = table.search(query["query"], query_type="fts").limit(top_k).to_list()
+        data.append([item["chunk_id"] for item in items])
     return data
 
 
-def get_ms_marco_table():
-    db = lancedb.connect("../lance")
-    return db.open_table("ms_marco")
+def semantic_search(table: Table, queries, top_k):
+    data = []
+    embedded_queries = generate_embeddings(queries, 20)
+    for embedding in tqdm(embedded_queries):
+        items = table.search(embedding, query_type="vector").limit(top_k).to_list()
+        data.append([item["chunk_id"] for item in items])
+    return data
 
 
-def get_k_relevant_chunk_ids(table, query, number):
-    return [
-        item["chunk_id"]
-        for item in table.search(query, query_type="fts").limit(number).to_list()
-    ]
+def hybrid_search(table: Table, queries, top_k):
+    data = []
+    for query in tqdm(queries):
+        items = table.search(query["query"], query_type="hybrid").limit(top_k).to_list()
+        data.append([item["chunk_id"] for item in items])
+    return data
 
 
-def get_test_queries():
-    data = load_jsonl_file("../queries.jsonl")
-    return [
-        {
-            "query": item["query"],
-            "selected_chunk_id": item["selected_passages"][0]["chunk_id"],
-        }
-        for item in data
-    ]
+def linear_combination_search(
+    table: Table, queries, top_k: int, vector_search_weight: float
+):
+    reranker = LinearCombinationReranker(weight=vector_search_weight)
+    data = []
+    for query in tqdm(
+        queries, desc=f"Linear Combination (Weight {vector_search_weight})"
+    ):
+        items = (
+            table.search(query["query"], query_type="hybrid")
+            .rerank(reranker=reranker)
+            .limit(top_k)
+            .to_list()
+        )
+        data.append([item["chunk_id"] for item in items])
+    return data
+
+
+def cohere_rerank_search(table: Table, queries, top_k: int, model_name: str):
+    data = []
+    cohere_reranker = CohereReranker(model_name=model_name)
+    for query in tqdm(queries, desc=f"Cohere Reranker ({model_name})"):
+        items = (
+            table.search(query["query"], query_type="hybrid")
+            .rerank(reranker=cohere_reranker)
+            .limit(top_k)
+            .to_list()
+        )
+        data.append([item["chunk_id"] for item in items])
+    return data

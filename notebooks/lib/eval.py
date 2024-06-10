@@ -20,8 +20,13 @@ def calculate_reciprocal_rank(predictions, labels):
 metrics = {"mrr": calculate_reciprocal_rank, "recall": calculate_recall}
 
 
-def score(preds, label):
+def score(preds, label: str | list[str]):
     return {
-        f"{fn_name}@{size}": round(metrics[fn_name](preds[:size], [label]), 3)
+        f"{fn_name}@{size}": round(
+            metrics[fn_name](
+                preds[:size], [label] if isinstance(label, str) else label
+            ),
+            3,
+        )
         for fn_name, size in product(metrics.keys(), SIZES)
     }
