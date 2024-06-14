@@ -4,6 +4,7 @@ from pydantic import BaseModel, Field
 from tqdm.asyncio import tqdm_asyncio as asyncio
 from asyncio import Semaphore
 from tenacity import retry, stop_after_attempt, wait_random_exponential
+from lib.models import ArxivPaper
 
 client = instructor.from_openai(openai.AsyncOpenAI())
 
@@ -71,6 +72,36 @@ async def generate_question_batch(
     return [{"response": item, "source": text} for item, text in res]
 
 
+async def generate_category_questions(
+    data: list[ArxivPaper], max_concurrent_calls: int, model_name="gpt-3.5-turbo"
+):
+    sem = Semaphore(max_concurrent_calls)
+
+    @retry(
+        wait=wait_random_exponential(multiplier=1, min=10, max=90),
+        stop=stop_after_attempt(3),
+    )
+    async def generate_question(text: ArxivPaper):
+        async with sem:
+            question = await client.chat.completions.create(
+                model=model_name,
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "You are a world class question generator. You are about to be passed a text chunk. Your job is to generate a question and answer that will enable a user to find similar chunks. Make sure not to include the title of the text chunk within the question",
+                    },
+                    {"role": "user", "content": f"Here is the text chunk : {text}"},
+                ],
+                response_model=QuestionAnswerResponse,
+                max_retries=3,
+            )
+            return (question, text)
+
+    coros = [generate_question(item) for item in data]
+    res = await asyncio.gather(*coros)
+    return [{"response": item, "source": text} for item, text in res]
+
+
 async def generate_metadata_batch(
     text_chunk_batch, max_concurrent_calls: int, model_name: str = "gpt-3.5-turbo"
 ):
@@ -81,20 +112,21 @@ async def generate_metadata_batch(
         stop=stop_after_attempt(3),
     )
     async def enhance_query(text_chunk: str):
-        return (
-            await client.chat.completions.create(
-                model="gpt-3.5-turbo",
-                response_model=Metadata,
-                messages=[
-                    {
-                        "role": "system",
-                        "content": "You are a world class query indexing system. You are about to be passed a text chunk and you'll need to generate some metadata that will allow you to retrieve this specific chunk when the user makes a relevant query",
-                    },
-                    {"role": "user", "content": f"The text chunk is {text_chunk}"},
-                ],
-            ),
-            text_chunk,
-        )
+        async with sem:
+            return (
+                await client.chat.completions.create(
+                    model="gpt-3.5-turbo",
+                    response_model=Metadata,
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": "You are a world class query indexing system. You are about to be passed a text chunk and you'll need to generate some metadata that will allow you to retrieve this specific chunk when the user makes a relevant query",
+                        },
+                        {"role": "user", "content": f"The text chunk is {text_chunk}"},
+                    ],
+                ),
+                text_chunk,
+            )
 
     coros = [enhance_query(item) for item in text_chunk_batch]
     res = await asyncio.gather(*coros)

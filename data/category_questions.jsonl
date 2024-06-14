@@ -1,0 +1,300 @@
+{"query": "What is the formal description of the functionality discussed in the text chunk?", "category": "cs.AI", "chunk_id": "e53b8c4c0077270bbcd70953a75d2628"}
+{"query": "What was the algorithm introduced in the study to improve pHMM performance by using structural information during training?", "category": "cs.AI", "chunk_id": "95632f153798757abe735d5882c657b3"}
+{"query": "What approach is proposed in the paper for training rough set models, and what is its application in the study?", "category": "cs.AI", "chunk_id": "d6dea0edd048c82504e98cd7e019d9de"}
+{"query": "What is the alternative approach explored in the text to improve the robustness of face recognition systems?", "category": "cs.AI", "chunk_id": "8119b6693be1f30dd152dac35b8eaa73"}
+{"query": "What are the key features of the Evolutionary Ensemble Learning (EEL) approach mentioned in the text?", "category": "cs.AI", "chunk_id": "fd97d7930fb8b027877a81a5f7f58483"}
+{"query": "What are the classification accuracy percentages of the GMM, SVM, and MLP models in fault classification for cylindrical shells?", "category": "cs.AI", "chunk_id": "d6e5b8a140bbd6572e22ae26b25db7ad"}
+{"query": "What is the focus of the text chunk regarding bluffing and game design?", "category": "cs.AI", "chunk_id": "edea3a0b54ccddc481f4a76516cce4b4"}
+{"query": "What is the key concept discussed in the text chunk related to finding optimal solutions of a concrete problem through abstraction?", "category": "cs.AI", "chunk_id": "fab3d2e3b3edeb814d7fd2515eccecac"}
+{"query": "What is the focus of the research paper on Bayesian Approach to Neuro-Rough Models?", "category": "cs.AI", "chunk_id": "bfbe8cb86ae78309d9cc3af572cc453b"}
+{"query": "What is the main focus of the comparison between Artificial Neural Networks (ANNs) and Support Vector Machines (SVMs) in the text?", "category": "cs.AI", "chunk_id": "77e6ff441e7345f62a058dd8fdb373a7"}
+{"query": "What is the proposed technique in the text chunk focused on and how does it differ from traditional methods?", "category": "cs.AI", "chunk_id": "760f28285c15530d27b13e59dc3ed9f1"}
+{"query": "What machine learning techniques were compared for predicting MIDs in conflict management in the text?", "category": "cs.AI", "chunk_id": "c1ee13236858118fe895f4e50611a90b"}
+{"query": "What is the focus of the experiments conducted in the text related to evolving symbolic controllers?", "category": "cs.AI", "chunk_id": "15f8ae95e5afc909d1915115ed59ea1a"}
+{"query": "What is the focus of the continuous model for Multi-cellular Developmental Design discussed in the text?", "category": "cs.AI", "chunk_id": "25c6426567ea46e4f7f5ea548dbceac8"}
+{"query": "What is the main focus of the text chunk regarding navigation on the World Wide Web?", "category": "cs.IR", "chunk_id": "897e1035fa07ae4b11f961f1d16e35f4"}
+{"query": "What methodology is used in the text chunk for predicting the response of structural systems to earthquake motions?", "category": "cs.AI", "chunk_id": "bed1071920ba7d44d7ed47d7090ca8f5"}
+{"query": "What method is used for fault classification in the text chunk, and what is the accuracy of fault classification achieved by the neuro-fuzzy model?", "category": "cs.AI", "chunk_id": "3d20d7a54fa40d01072b73882769df4a"}
+{"query": "What is the focus of the study presented in the text chunk regarding on-line condition monitoring using computational intelligence?", "category": "cs.AI", "chunk_id": "43193580459970563e2e4b8f061595a4"}
+{"query": "What is the focus of the text chunk on lasso type classifiers with a reject option?", "category": "stat.ML", "chunk_id": "bf00998bd67deb85f560fc78e6d7bec0"}
+{"query": "What potential application does Quantum Computation (QC) have to Artificial Intelligence (AI) according to the text?", "category": "cs.AI", "chunk_id": "3f1466365bd090bfafcbfc64cfffb144"}
+{"query": "What algorithm is introduced in the text to improve cluster matching and how does it differ from the classic approach?", "category": "cs.AI", "chunk_id": "4d3dd7755f62092a2fad89f931383f37"}
+{"query": "What is the main focus of the text chunk regarding Semantic Web technologies and semantic networks?", "category": "cs.AI", "chunk_id": "2afbed61c70d083976c0c5b07aad5fa9"}
+{"query": "What is the system described in the text capable of doing with respect to filling an XML template from free texts in the clinical domain?", "category": "cs.AI", "chunk_id": "23035e48ab52075b40a32c78f89eb2e0"}
+{"query": "What model is introduced in the text for representing qualitative temporal information without the need for transitive tables or inference rules?", "category": "cs.AI", "chunk_id": "34117f80153097f391c0ab7df3b8b7d7"}
+{"query": "What is the goal of the work described in the text chunk?", "category": "cs.IR", "chunk_id": "7452dcfc36551416d724ce22ce2c536c"}
+{"query": "What is the main focus of the paper on Metric Embedding for Nearest Neighbor Classification?", "category": "stat.ML", "chunk_id": "570f84a285af4f73ad455c6c4d92cf08"}
+{"query": "What is the significance of the 70-odd definitions of intelligence presented in the paper?", "category": "cs.AI", "chunk_id": "ca200a22155b86fbfe2473b87e65b38d"}
+{"query": "What platform is discussed in the text for efficient and domain-specific web content analysis?", "category": "cs.AI", "chunk_id": "addee692a552e2307cdc610f9cae02ca"}
+{"query": "What approach does the text chunk propose for solving the problem of finding an n-agent joint-policy for the optimal finite-horizon control of a decentralized Pomdp?", "category": "cs.AI", "chunk_id": "1a89c66800d3bcd1054a5d2fbcafd664"}
+{"query": "What is the main focus of the text regarding dendrograms and their relation to nonarchimedean geometry?", "category": "stat.ML", "chunk_id": "35b71ffd49faf04c61a3ea2f31fd91f7"}
+{"query": "What is the conceptual framework discussed in the text chunk?", "category": "stat.ML", "chunk_id": "4b2504953407a93d38bd3434dc687514"}
+{"query": "What techniques were used to implement the leaf recognition algorithm discussed in the text?", "category": "cs.AI", "chunk_id": "17e2ad1e3ee543844d83a7f19a559fc9"}
+{"query": "What is the focus of the research discussed in the text chunk regarding web sites' link structures?", "category": "cs.IR", "chunk_id": "741089f581d6859208313de5f5e24697"}
+{"query": "What is the focus of the online learning algorithms discussed in the text chunk?", "category": "stat.ML", "chunk_id": "def145ace3c1b2ad10e78bb149950082"}
+{"query": "What is the significance of integrating users' needs into multimedia information retrieval systems according to the text chunk?", "category": "cs.IR", "chunk_id": "7e44d40e26795b30666968edfbfa452b"}
+{"query": "What key aspects of the history and outlook of Artificial Intelligence (AI) are discussed in the text chunk?", "category": "cs.AI", "chunk_id": "6d5df6ecad3ba3eb4dcd0aacf087da57"}
+{"query": "What is the significance of Qualitative Belief Conditioning Rules (QBCR) in belief revision according to the text?", "category": "cs.AI", "chunk_id": "a322062cd28bdba5859487194e2c477e"}
+{"query": "What standardized semantic network data model is discussed in the text for modeling complex systems and networks of discrete elements?", "category": "cs.AI", "chunk_id": "82f4a2fa250f44562ad1c64013a1662b"}
+{"query": "What are the $qe$-operators in the context of qualitative belief enrichment for reasoning under uncertainty?", "category": "cs.AI", "chunk_id": "03f65f3522fc71f7088598a09cfe8396"}
+{"query": "What concept is introduced in the text that involves representing mental states in a metric space and creating AI-systems with elements of human psyche?", "category": "cs.AI", "chunk_id": "4a4a4c163e2e9cf1e3cc4fcef4452ece"}
+{"query": "What are some key aspects of kernel density estimation in supervised machine learning, and how does the pointwise mean square error (MSE) converge with the proposed kernel function according to the text?", "category": "stat.ML", "chunk_id": "a2dcaf2cbce0d7ccc1572dd3a93f20f9"}
+{"query": "What are the challenges addressed in the text chunk regarding the use of high dimensional features in regression and classification problems?", "category": "stat.ML", "chunk_id": "6133becd6fc933491f77fc78dfd88456"}
+{"query": "What is the focus of the text regarding optimization and continuous domains?", "category": "stat.ML", "chunk_id": "8903b17268c38257bae9101ee4fd2a90"}
+{"query": "What is the main focus of the study on the fitness landscape of cellular automata majority problem in the text?", "category": "cs.AI", "chunk_id": "7a9f3e0ec9feb74cfc48608bae44c9e5"}
+{"query": "What concept is introduced as an alternative way to visualize and analyze search spaces in the text?", "category": "cs.AI", "chunk_id": "b5fa98023f479ce32730fb241804fd90"}
+{"query": "What is the focus of the theoretical work discussed in the provided text chunk?", "category": "cs.AI", "chunk_id": "f988449267fcc4abfd8a11e6f535a586"}
+{"query": "What is the system described in the text chunk capable of doing with free texts in the clinical domain?", "category": "cs.AI", "chunk_id": "79e4aa19ebb269de4bfc4896bab7b443"}
+{"query": "What is the focus of the new distance metric proposed in the text chunk?", "category": "cs.IR", "chunk_id": "b5f45637e6c0b388a12dd84ca580b5e4"}
+{"query": "What technique is utilized for MAP estimation in graphical models according to the text?", "category": "cs.AI", "chunk_id": "8cd018ecc2139cdea7bd52b26a9dfb50"}
+{"query": "What is the main focus of the text chunk regarding the nested Chinese restaurant process and Bayesian nonparametric inference?", "category": "stat.ML", "chunk_id": "8bc48f9264c3f5db47d660d468c8c59b"}
+{"query": "What is the main focus of the note 'Stanford Matrix Considered Harmful'?", "category": "cs.IR", "chunk_id": "b395ee81c1fead1b86145e813fd192a6"}
+{"query": "What does the theorem discussed in the text relate probabilistic coherence of forecasts to?", "category": "stat.ML", "chunk_id": "03899903659636ccf9e5e6d960752dc4"}
+{"query": "What is the main focus of the text chunk on Bayesian Online Changepoint Detection?", "category": "stat.ML", "chunk_id": "982ef7b360ebaa5fcf33f08223f9f52a"}
+{"query": "What is the focus of the method discussed in the text regarding analyzing covert social network foundations behind terrorism disasters?", "category": "cs.AI", "chunk_id": "de7e9e4b4d2fe18a876419ddf1fd65ea"}
+{"query": "What is the focus of the methods presented in the text chunk for a social network node discovery problem?", "category": "cs.AI", "chunk_id": "2f9847403c232fb44c973a19620352ac"}
+{"query": "What method is presented in the text to predict relevant empty spots in social interaction?", "category": "cs.AI", "chunk_id": "85fd5e273f403459863c03a70665e634"}
+{"query": "What is the significance of importance values from random forests in screening variables, as mentioned in the text?", "category": "stat.ML", "chunk_id": "e632ed41553aecc832762c6a069ff2cf"}
+{"query": "What role does image reference play in the first design stage according to the text chunk?", "category": "cs.IR", "chunk_id": "701a78be9b060e060abce6286941f051"}
+{"query": "What is the focus of the research in the text regarding the use of Wikipedia categories in entity ranking?", "category": "cs.IR", "chunk_id": "b123b1832fe32aa4477034fe6feb8928"}
+{"query": "What is the main focus of the text chunk regarding entity ranking in Wikipedia?", "category": "cs.IR", "chunk_id": "2636c1246360509107b1d75cce5b3d5b"}
+{"query": "What is the primary focus of the research discussed in the text?", "category": "cs.AI", "chunk_id": "8cc5356adcef391755cd38e3bca6c892"}
+{"query": "What is the main focus of the paper described in the text chunk?", "category": "cs.IR", "chunk_id": "fb768534284563376e72b89e6deec583"}
+{"query": "What is the focus of the monograph discussed in the text chunk related to supervised classification?", "category": "stat.ML", "chunk_id": "8755333bffbdd75fbfeed0960b9d257a"}
+{"query": "What is the focus of the discussion regarding localizations in reaction-diffusion cellular automata in the text?", "category": "cs.AI", "chunk_id": "d88f50c15b49b97d2cb56417d975156a"}
+{"query": "What is the main focus of the axiomatic approach discussed in the text?", "category": "cs.IR", "chunk_id": "acf47d05bba386fa18e083e226267442"}
+{"query": "What is the integration of And/Or tree search into propagation-based constraint solvers called in the text, and how does it work?", "category": "cs.AI", "chunk_id": "cff7454007b4094676eaf448d9dbe50c"}
+{"query": "What is the approach taken in the paper to define machine intelligence according to the text chunk?", "category": "cs.AI", "chunk_id": "e7541f3752a55da0df78e43808030bc2"}
+{"query": "What is the focus of the paper 'Tests of Machine Intelligence' by Shane Legg and Marcus Hutter?", "category": "cs.AI", "chunk_id": "bfa6cd5e759ce19e81c83367a69455b0"}
+{"query": "What is the significance of the bounded utility function in relation to the convergence of expected utilities with algorithmic probability distributions?", "category": "cs.AI", "chunk_id": "6747b04d05b5d361ebd611c308ed1d24"}
+{"query": "What are some of the key considerations and challenges discussed in the text regarding building ontology?", "category": "cs.AI", "chunk_id": "915f190653031cab642265599bd99fed"}
+{"query": "What is stream computing and what components are used to embody 'intelligent' processing according to the text chunk?", "category": "cs.AI", "chunk_id": "7fc4838a5a2dcad9014d5673da0e478f"}
+{"query": "What is the method described in the text for encoding authority files for the Semantic Web with ISO 3166 and SKOS?", "category": "cs.IR", "chunk_id": "ebaf2874163fac820c9a5f86d1e8e9f2"}
+{"query": "What is the focus of the new selection scheme introduced in cellular genetic algorithms (cGAs) mentioned in the text?", "category": "cs.AI", "chunk_id": "ea96945b31393b8bd60c8c0fefd4e492"}
+{"query": "What algorithm is presented in the text for classification constrained dimensionality reduction?", "category": "stat.ML", "chunk_id": "1a4b6979627b807e9a1a6beb0811a6c4"}
+{"query": "What is the specific parameter mentioned in the text chunk that allows controlling the stiffness of the elastic matching in time warp distances?", "category": "cs.IR", "chunk_id": "8d11d625092608e31c1547363b00c3ed"}
+{"query": "What is the main focus of the algorithm proposed in the text chunk for mining user navigational patterns on websites?", "category": "cs.IR", "chunk_id": "c149fc075e942c1d85949f137ed86b08"}
+{"query": "What is the focus of the discussion in the given text chunk regarding the future of scientific simulations?", "category": "cs.AI", "chunk_id": "b0e19906bb4dc532e2e6e2e99d4450b2"}
+{"query": "What is the subject of the paper that has been withdrawn, focusing on serious flaws in the time complexity analysis of A*?", "category": "cs.AI", "chunk_id": "9809790aea89d73100e8b666441eb2f7"}
+{"query": "What type of component model is introduced in the field of network modeling in the text?", "category": "stat.ML", "chunk_id": "167a4e62b44ed3c99016e444f5a27634"}
+{"query": "What are some distinctive functionalities offered by the Mitos Web Search Engine according to the text chunk?", "category": "cs.IR", "chunk_id": "109ec69fe1daa7e3a04e15a1066e1de5"}
+{"query": "What technology is integrated into the algorithm to reduce user fatigue during the evaluation process in Interactive Evolutionary Computation?", "category": "cs.AI", "chunk_id": "81cda2db97287649313c6f3b330f25e0"}
+{"query": "What is the focus of the method presented in the text regarding node discovery in a networked organization?", "category": "cs.AI", "chunk_id": "5964ce0733c358388b078ec533259cae"}
+{"query": "What kind of system is used to represent information in the decision support system described in the text?", "category": "cs.AI", "chunk_id": "01b5b71c12c8ecca632c4e209cababa1"}
+{"query": "What method is described in the text for helping individuals become aware of their unconscious preferences and conveying them to others?", "category": "cs.AI", "chunk_id": "e8e7cd523476d8af9ac8bbc6b3c2edf0"}
+{"query": "What is the focus of the text chunk regarding the application of Rough Set Theory in hydrocyclone operation analysis?", "category": "cs.AI", "chunk_id": "f65e2d4f687f7c3250739af5625dfc41"}
+{"query": "What is the focus of the text in relation to multiagent systems development for emergency situations in uncertain environments?", "category": "cs.AI", "chunk_id": "fc31ce5f7f73c2be94461345854184b0"}
+{"query": "What is the main focus of the text chunk regarding the influence of selection operators in cellular genetic algorithms?", "category": "cs.AI", "chunk_id": "b147abc9d2ed6a3205766e4b3f5eda7b"}
+{"query": "What is the focus of the paper discussed in the text chunk?", "category": "stat.ML", "chunk_id": "d364d381c6866bcd115bfe9a8d988641"}
+{"query": "What is the book review about in the text chunk?", "category": "cs.AI", "chunk_id": "87128f28e28a4a68c22f35509529cd0c"}
+{"query": "What is the main concern raised in the text regarding the Bayesian K-nearest neighbors approach?", "category": "stat.ML", "chunk_id": "e43e09c2a4e609a3cf072588f43db45d"}
+{"query": "What are the two main approaches discussed for automatic query expansion in the text?", "category": "cs.IR", "chunk_id": "91402098b24088f5b524d619d17b201c"}
+{"query": "What is the purpose of Information Preserving Component Analysis (IPCA) in flow cytometry analysis?", "category": "stat.ML", "chunk_id": "37810547755155cc628983ccee65b9d6"}
+{"query": "What is the focus of the study in the text chunk regarding MACIPS, SONFIS, and SORST?", "category": "cs.AI", "chunk_id": "1420b5da986f5ea0bbfedb2076435098"}
+{"query": "What are the limitations of Affinity Propagation clustering (AP) and how does the Adaptive AP method aim to address them?", "category": "cs.AI", "chunk_id": "eab78a982b0d78e2cd55c9536fa9a3b2"}
+{"query": "What are the two approximate reasoning methods used in the assessment of effective parameters on dilution in longwall mining discussed in the text?", "category": "cs.AI", "chunk_id": "4dd814538cd868886dcd779febbc09ea"}
+{"query": "What is the focus of the paper on random projection trees for vector quantization by Sanjoy Dasgupta and Yoav Freund?", "category": "stat.ML", "chunk_id": "1b3310156e1c122900339f366d5a7000"}
+{"query": "What is the focus of the study mentioned in the text chunk?", "category": "cs.AI", "chunk_id": "9296b0848fc4f18c362cb738ae2f2c61"}
+{"query": "What specific methods are used in the analysis of hydrocyclone performance based on information granulation theory and what is the main purpose of this analysis?", "category": "cs.AI", "chunk_id": "a5b586ca57ebc4521431f247af744d7e"}
+{"query": "What is the main focus of the knowledge representation language discussed in the text?", "category": "cs.AI", "chunk_id": "48ee5f821b678f997f8dc0a1f9203cb4"}
+{"query": "What is the key method proposed in the text for constructing folksonomies from user-specified relations on Flickr?", "category": "cs.AI", "chunk_id": "f0a3cb7ed04c4b7d2208eb5ceb6a5621"}
+{"query": "What is the focus of the analysis conducted in the text chunk?", "category": "cs.AI", "chunk_id": "a310661c7ee08f9aff00500297092b4f"}
+{"query": "What is the methodology used for feature selection in evaluating trauma death risk, and how does it help reduce the risk of death caused by unreliable decisions according to the text chunk?", "category": "cs.AI", "chunk_id": "32ff2e8a1312b259b4d871cca2c0b5c8"}
+{"query": "What is the focus of the evaluation method presented in the text chunk?", "category": "cs.AI", "chunk_id": "b992d1a34ced6e5b8bdcc8e7cc6478dc"}
+{"query": "What is the focus of the computational method presented in the text chunk?", "category": "cs.AI", "chunk_id": "175480ec37032b276e89bc1234e08bf3"}
+{"query": "What theory is applied in the rock mechanics modeling described in the text chunk?", "category": "cs.AI", "chunk_id": "91a4099cb4762dca8949ac56a07e6e9a"}
+{"query": "What is the focus of the study regarding knowledge management systems and ontology in the context of industry clusters?", "category": "cs.AI", "chunk_id": "fae210ec7d91befc963dba683ecce397"}
+{"query": "What technologies are discussed in the text for crisis response using artificial intelligence?", "category": "cs.AI", "chunk_id": "9382f30fcc2c9ba7e2cd2703f7bf6d70"}
+{"query": "What is the main focus of the mixed combination rule proposed in the belief functions theory?", "category": "cs.AI", "chunk_id": "efd7aa9528c558492bd95326e504084e"}
+{"query": "What is the focus of the new generalized proportional conflict redistribution rule discussed in the text?", "category": "cs.AI", "chunk_id": "95f43def0236362f0f903faa1a4e71b7"}
+{"query": "What are the three approaches mentioned in the text to manage the conflict coming from information combination?", "category": "cs.AI", "chunk_id": "92e8f27965bc6cff0364176faee1f5c2"}
+{"query": "What concept is introduced in the text for deriving perfect propagator variants?", "category": "cs.AI", "chunk_id": "bc9ad21c086287cd949870a4144b6811"}
+{"query": "What aspect of the Halpern-Pearl definition of causality is repaired by combining a theory of causality with a theory of defaults?", "category": "cs.AI", "chunk_id": "fc0dfd8d9a627daf12702bda37ce6df2"}
+{"query": "What is the focus of the analysis in the text chunk related to manifold-learning algorithms?", "category": "stat.ML", "chunk_id": "8bbb51e7a724f846bb41a3b2cfa643e2"}
+{"query": "What is the novel measure presented in the text for comparing manifold-based embedding algorithms?", "category": "stat.ML", "chunk_id": "8b65b1e4c133bb675582b7ddeb5a6fe9"}
+{"query": "What is the main focus of the text chunk regarding supervised functional classification?", "category": "stat.ML", "chunk_id": "8ee01b2375ad6ee180c3e9f122de19dd"}
+{"query": "What is the focus of the proposed penalty for high-dimensional generalized additive models in the text chunk?", "category": "stat.ML", "chunk_id": "343bfe7d1f6b6a092359131e68f8e76a"}
+{"query": "What is the reason for the withdrawal of the paper 'The model of quantum evolution' by Konstantin P. Wishnevsky?", "category": "cs.AI", "chunk_id": "1f1d0e357d196ac2de6bdddcbcc681d6"}
+{"query": "What is the focus of the research paper authored by Eugen Popovici, Gilbas M'enier, and Pierre-Fran\u00e7ois Marteau from VALORIA?", "category": "cs.IR", "chunk_id": "25a49c84ea59fa4a8c38edb4f19ec6ca"}
+{"query": "What is the focus of the belief decision support model discussed in the text chunk?", "category": "cs.AI", "chunk_id": "bd4ebcd3bcb5bf00e649b5acb49a9c9d"}
+{"query": "What methods are used in the text to achieve a Euclidean embedding of different information spaces and to model anomaly and change?", "category": "cs.AI", "chunk_id": "75b99a1d1464d82e4a083c6eca275c99"}
+{"query": "What are the two fusion rules discussed in the text chunk related to Inagaki Weighted Operators fusion rule?", "category": "cs.AI", "chunk_id": "cd945f16152925465bb5c2014f1d561e"}
+{"query": "What is the focus of the chapter on implementing a general belief function framework with a practical codification for low complexity?", "category": "cs.AI", "chunk_id": "5136467de5142efd1db16363a1c99c0b"}
+{"query": "What is the name of the new probabilistic transformation proposed in the Dezert-Smarandache Theory framework?", "category": "cs.AI", "chunk_id": "616cc01d7359b86779a6d479f6805609"}
+{"query": "What topics are discussed in the text chunk related to AI systems and cognitive modelling?", "category": "cs.AI", "chunk_id": "819defe6a12b5db30c7321fd98acf4c6"}
+{"query": "What are the three proposals presented in the article for unifying cognitive behaviors?", "category": "cs.AI", "chunk_id": "7af388dc391459bbe783d5f63b8ddc81"}
+{"query": "What modification is proposed in the text to address the sensitivity to noise and linear projection convergence issues in the local linear embedding algorithm (LLE)?", "category": "stat.ML", "chunk_id": "1917c5a6bbfc2d56e1b5e8cc9e3b435d"}
+{"query": "What is the difference between verified null-move pruning and standard null-move pruning?", "category": "cs.AI", "chunk_id": "41a820dbbfb9b4b4d457981fea5794e4"}
+{"query": "What are the key ideas highlighted in the framework for studying clustering algorithms mentioned in the text chunk?", "category": "stat.ML", "chunk_id": "671a1024218ee1ee3dd22da1b3c30935"}
+{"query": "What is the methodology described in the text chunk for Principal Component Analysis in decomposable Gaussian graphical models?", "category": "stat.ML", "chunk_id": "97a21db108f28122f7ff902004f264e4"}
+{"query": "What is the focus of the text chunk regarding logic operators and their extension?", "category": "cs.AI", "chunk_id": "5da3880b0c4e2e2710e9a973cfd1701a"}
+{"query": "What technique was used in the paper to improve the identification of Pareto optimal alternatives in multi-objective flow shop scheduling?", "category": "cs.AI", "chunk_id": "0efdaf775ae9aa4777055a0934fef522"}
+{"query": "What are the main principles underlying the 'Pareto Iterated Local Search Metaheuristic' described in the text chunk?", "category": "cs.AI", "chunk_id": "7edb0823694cf3eb2beae4392c747304"}
+{"query": "What is the focus of the computational study on genetic crossover operators discussed in the text?", "category": "cs.AI", "chunk_id": "19d535c5ed0906556a1cdd7240ad16a7"}
+{"query": "What is the general approach described in the text regarding the genetic algorithm for multiple objective optimization problems?", "category": "cs.AI", "chunk_id": "dfaed7f2fea9218ba447f34a6ef1b5a1"}
+{"query": "What type of problems does the framework discussed in the text chunk aim to address?", "category": "cs.AI", "chunk_id": "eaa50a2edbb2ce733de7867f0707937f"}
+{"query": "What is the focus of the study in the text chunk regarding scheduling problems and which company is mentioned for the study of changing job priorities?", "category": "cs.AI", "chunk_id": "327f52d55e632105cfd4e67e2fd83c53"}
+{"query": "What approach does the article propose for the bin packing problem under multiple objectives?", "category": "cs.AI", "chunk_id": "858c0d5f426285211380bdf9689bbcff"}
+{"query": "What is the focus of the article on the Threshold Accepting metaheuristic for curriculum-based course timetabling?", "category": "cs.AI", "chunk_id": "350dab8dd7d39aab2a71e8a0c65bd995"}
+{"query": "What problem-solving approach is discussed in the text chunk related to the University Lecturer-Student Assignment Problem?", "category": "cs.AI", "chunk_id": "a3241c39e8e2eaf8026cb51428727c98"}
+{"query": "What is the focus of the extended tableau calculus introduced for answer set programming (ASP) in the text?", "category": "cs.AI", "chunk_id": "9065acea5e4fe7ea6ce1df26b9b544dd"}
+{"query": "What aspects of Smodels programs are discussed in the text regarding compositionality and module architecture?", "category": "cs.AI", "chunk_id": "a764b0aaee98aa6892c6dceb1b848f60"}
+{"query": "What is the approach proposed for computing rankings of users associated with facets made up of multiple tags in collaborative tagging systems?", "category": "cs.IR", "chunk_id": "af777d792deddcb58f5e60e023476b01"}
+{"query": "What approach does the VOIR system described in the text use to combine conceptual and visual information for image retrieval?", "category": "cs.IR", "chunk_id": "46583e46e7c053b7198a0e6da23e771f"}
+{"query": "What new measure is proposed in the text for determining the unithood of word sequences?", "category": "cs.AI", "chunk_id": "0ee4ccd30ed9e946dabb04d14ecfbca9"}
+{"query": "What approach does the text propose for determining the unithood of word sequences, and what are the evaluation results of this approach?", "category": "cs.AI", "chunk_id": "fab7df7e7ca11a7d6c90f2268944227a"}
+{"query": "What is the focus of the paper on large-scale variational inference and experimental design for sparse generalized linear models?", "category": "stat.ML", "chunk_id": "6eb2e1ca20c8e5278f9bfc0dc8684b40"}
+{"query": "What is the importance of using regular expressions for information search and data processing tasks according to the text?", "category": "cs.IR", "chunk_id": "812393e45852d7008fc28223c1b0e440"}
+{"query": "What is the main focus of the new online boosting algorithm discussed in the text?", "category": "stat.ML", "chunk_id": "a0bc8d1548860aa02d617c8424ec4cd7"}
+{"query": "What is the focus of the non-negative series expansion discussed in the text?", "category": "stat.ML", "chunk_id": "a0137dae7544eae9fd460af35afde94f"}
+{"query": "What system was developed for query refinement and how does it differ from TermScience?", "category": "cs.IR", "chunk_id": "c1a6c1c8be79827aa9cfb42912b2d6ef"}
+{"query": "What is the focus of the algorithm discussed in the text?", "category": "stat.ML", "chunk_id": "486bef00538d71bd6f27016dc976df2f"}
+{"query": "What method does the article propose for finding global maxima in kernel density estimation modeling of the joint distribution?", "category": "stat.ML", "chunk_id": "bf2c908f56b17bed58791ec34d087e4d"}
+{"query": "What is the focus of the procedure presented in the text chunk regarding entropy inference and the James-Stein estimator?", "category": "stat.ML", "chunk_id": "e7bc65c2b755e32aa71fb15506d0af01"}
+{"query": "What is the main focus of the paper on random forests in the text chunk?", "category": "stat.ML", "chunk_id": "9168947aaf7ed622775a0c446365209c"}
+{"query": "What is the main focus of the text regarding min-cut clustering and heuristic cost functions proposed by Shi and Malik?", "category": "stat.ML", "chunk_id": "fbce1b2fc5c0fd0eb1cfd9f36c0a79ab"}
+{"query": "What is the key focus of the annotation process in the context of economic intelligence according to the text chunk?", "category": "cs.IR", "chunk_id": "12540a3ff138fa4a2623c934681ae5a8"}
+{"query": "What methods are used in the text chunk to handle missing data and improve network performance?", "category": "stat.ML", "chunk_id": "cebc2446fb3a7817e6bd57d9069e2ff7"}
+{"query": "What is the significance of the number of states in the finite automata when indexing the complexity of random sequences in the context of prediction?", "category": "stat.ML", "chunk_id": "0536d60a7e2cdce1d0e2b29d76af7aed"}
+{"query": "What is the key factor that leads to the improvement in the quality of blogroll neighborhoods in social networking sites according to the text?", "category": "cs.IR", "chunk_id": "974bbb4344d3b5551153ce5569ace490"}
+{"query": "What is the significance of the normal fan of a polyhedral convex support in deriving statistical and geometric properties of exponential families and in the analysis of ERG models?", "category": "stat.ML", "chunk_id": "26dd8ffe2325296127b540a2e1363a7a"}
+{"query": "What is the focus of the text chunk regarding document categorization and classification?", "category": "cs.IR", "chunk_id": "0d2f819215baca01b5d845c0a436d346"}
+{"query": "What is the significance of decisional states in the context of epsilon-machines and utility functions according to the text chunk?", "category": "stat.ML", "chunk_id": "2dcd8a0ec9715b28745c79bd1629302c"}
+{"query": "What algorithm is proposed for improving the computational efficiency of Kernel Partial Least Squares (KPLS) in the text chunk?", "category": "stat.ML", "chunk_id": "b153966399ff2269e9e25513e86c6daf"}
+{"query": "What is the focus of the tree-based regressor presented in the text chunk and what does its convergence rate depend on?", "category": "stat.ML", "chunk_id": "c4404dad0707f9c0368b7090887e76ec"}
+{"query": "What is the main focus of the text chunk regarding document relevance evaluation?", "category": "cs.IR", "chunk_id": "1b56de1fadc10d0623d01796febb04c8"}
+{"query": "What is the method discussed in the text for estimating sparse undirected graphs in high dimensional problems?", "category": "stat.ML", "chunk_id": "d9619eecd90495506ac89deaf64597e5"}
+{"query": "What is the significance of user clicks on query-relevant snippets according to the text?", "category": "cs.IR", "chunk_id": "79b070ce438599bc99dcb0568b312890"}
+{"query": "What method is presented in the text for ranking weblogs based on connectivity and similarity features?", "category": "cs.IR", "chunk_id": "ee265d4d3ca85968c92199521dc026e8"}
+{"query": "What is the key idea behind finding exogenous variables in a linear non-Gaussian causal model with many more variables than observations?", "category": "stat.ML", "chunk_id": "2da632779c7f21e424bcb87145e13b96"}
+{"query": "What is the key focus of the text chunk related to annotation and decision-making in the context of economic intelligence?", "category": "cs.IR", "chunk_id": "4c5f6b53c2a90b475cf2c267e252bae8"}
+{"query": "What is the focus of the recommendation algorithm proposed in the text chunk and how does it aim to improve personalized recommendations?", "category": "cs.IR", "chunk_id": "ad2082e54cb305d56007ca92695f4fb4"}
+{"query": "What is the focus of the text chunk related to structured variable selection and sparsity-inducing norms in supervised learning?", "category": "stat.ML", "chunk_id": "d79c45b2778772a932211ec91afbc197"}
+{"query": "What is the focus of the supplementary material for Markov equivalence for ancestral graphs in the text chunk?", "category": "stat.ML", "chunk_id": "52774dbeb56bee3f7123ad5e1469d16a"}
+{"query": "What is the main advantage of the new boosting algorithm presented in the text chunk?", "category": "stat.ML", "chunk_id": "355dc7fbe85177cef29662de5afa9e03"}
+{"query": "What is the approach presented in the text for modeling users' behavior in Information Retrieval, and how is it inspired by a scientific theory?", "category": "cs.IR", "chunk_id": "d0a32ecd002808772a488faed720da74"}
+{"query": "What properties of the Google matrix are studied in the text and how are they related to dynamical attractors and Ulam networks?", "category": "cs.IR", "chunk_id": "03a1dac891d6bcedefee861060f2cb02"}
+{"query": "What method is proposed in the text for quantifying the similarity between users in a user-object bipartite graph?", "category": "cs.IR", "chunk_id": "25049ac58da54f53852295e759b4b094"}
+{"query": "What concept is used to describe the complex answers given by IR systems in the text chunk?", "category": "cs.IR", "chunk_id": "7699ddc407a3de4aca8c082d8a178522"}
+{"query": "What is the Forest Garrote method and how does it compare to tree ensembles in terms of variable selection and predictive power?", "category": "stat.ML", "chunk_id": "97cd19cb5b105764686e3bdfe1ca78e2"}
+{"query": "What measure is introduced in the text to achieve both excellent predictive performance and superior interpretation in machine learning?", "category": "stat.ML", "chunk_id": "a71755bdc2a52b05233dfae99b68dae6"}
+{"query": "What is the iterative algorithm proposed in the text chunk for feature weighting within a kernel space?", "category": "stat.ML", "chunk_id": "a6fae2fb888db54993403465314fbd80"}
+{"query": "What approach does the paper focus on for text summarization improvement, and how is fuzzy logic utilized in this context?", "category": "cs.IR", "chunk_id": "346fa7c231e003b7b4797e2eff3303ea"}
+{"query": "What is the focus of the personalized recommendation model in the research paper on collaborative filtering with diffusion-based similarity on tripartite graphs?", "category": "cs.IR", "chunk_id": "c40cbfb45a6268fb293c18b23e9750c3"}
+{"query": "What approach is discussed in the text for improving the quality of web navigation through focused crawling?", "category": "cs.IR", "chunk_id": "6871c285c1d4950c81493a55e0d9e28f"}
+{"query": "What approach does the paper propose to enhance the definition of clusters and neighborhoods in visualizing recommendations and similarities?", "category": "cs.IR", "chunk_id": "ef4594d63712caa074518f6efe2aa6d3"}
+{"query": "What is the new Bayesian model introduced in the text chunk and how does it operate in hierarchical clustering?", "category": "stat.ML", "chunk_id": "baccf8bb8e623501b2b9a0786737716c"}
+{"query": "What is the method described in the text for visualizing topics and how does it differ from traditional visualizations?", "category": "stat.ML", "chunk_id": "476b6783e0d37a0c1a714b8fe9f4009b"}
+{"query": "What is the role of weak ties in link prediction of complex networks according to the text?", "category": "cs.IR", "chunk_id": "809cca2b979eafa6d5b24341ed89b74a"}
+{"query": "What is the focus of the comparison between the solution based on Russian Wiktionary and WordNet in ontology matching algorithms?", "category": "cs.IR", "chunk_id": "79def80371ca5dda71e290156eeb5c60"}
+{"query": "What method is proposed by Kolar et al (2010b) for estimating time-varying networks in the context of the text chunk?", "category": "stat.ML", "chunk_id": "89606bcbc1c50a8f0eb6bf786297e742"}
+{"query": "What is the potential impact of using tag information on personalized recommendations in collaborative tagging systems?", "category": "cs.IR", "chunk_id": "53085ecdf1435ec9fa5b62ebe0044897"}
+{"query": "What is the focus of the text chunk regarding learning methods and risk analysis?", "category": "stat.ML", "chunk_id": "aec17c0a5d3c04e0702c8e19b1d97a96"}
+{"query": "What is the proposed solution in the USUM system for generating updated summaries efficiently?", "category": "cs.IR", "chunk_id": "835c9a424f9a2e30b7b866d9e3d03e7d"}
+{"query": "What is the focus of the text chunk regarding meta-learning and how is it implemented?", "category": "stat.ML", "chunk_id": "ed4d2616efcd71df78d74defe52a4471"}
+{"query": "What is the focus of the analysis in the text chunk regarding the k-means algorithm's stability and initialization?", "category": "stat.ML", "chunk_id": "0dde981de8a3ed35e36c48fcdf57df3d"}
+{"query": "What is the focus of the evaluation methodology proposed in the text?", "category": "cs.IR", "chunk_id": "4edd33c6edd3175c600942b24ce0e546"}
+{"query": "What is the approach presented in the paper for supporting users in video search?", "category": "cs.IR", "chunk_id": "724f2d07060b55416d8c3f41bc8cc3ce"}
+{"query": "What is the name of the new nearest-prototype classifier introduced in the text, and how is it related to the set cover problem?", "category": "stat.ML", "chunk_id": "a84a3b62845ab32d527923064ff9034a"}
+{"query": "What is the issue mentioned in the abstract regarding the sections of the paper on Convex Multiview Fisher Discriminant Analysis?", "category": "stat.ML", "chunk_id": "b89fa720da6e27b8b9c2e682c782dc07"}
+{"query": "What is the focus of the proposed extension in the concept of Expected Improvement in Kriging based optimization?", "category": "stat.ML", "chunk_id": "e9b046c3b317ad3dbbe7c4e85d037c3a"}
+{"query": "What is the purpose of the bnlearn R package?", "category": "stat.ML", "chunk_id": "bebaaed9041563112456aefe3db1a0d8"}
+{"query": "What is the key focus of the method presented in the text for accelerating the HITS algorithm?", "category": "cs.IR", "chunk_id": "c858ab967b4696dbc168ee87589c5490"}
+{"query": "What is the focus of the new family of kernels introduced in the text?", "category": "stat.ML", "chunk_id": "034916d6da5b3ea0bde659765dfd8fbe"}
+{"query": "What is the method discussed in the text chunk that extends sparse PCA by incorporating structured sparsity patterns?", "category": "stat.ML", "chunk_id": "b1cebbb5a10c834e8a823cd952c26497"}
+{"query": "What method is used in the text to group similar weblogs with their descriptive shared words?", "category": "cs.IR", "chunk_id": "0e68635f43cca3863e6f3941abe661e5"}
+{"query": "What is the purpose of the PrisCrawler system described in the text?", "category": "cs.IR", "chunk_id": "0230a50b4c82a535e151c9e7ea04f38e"}
+{"query": "What is the core of the new video processing method proposed in the text, and how does it aim to make video search engine more effective?", "category": "cs.IR", "chunk_id": "297d88e2ba4d7fedaf0454768b2244fa"}
+{"query": "What is the focus of the Universal Recommender described in the text?", "category": "cs.IR", "chunk_id": "ff154948b9b54e1908ef562a64139703"}
+{"query": "What method is described for inferring linear causal relations among multi-dimensional variables based on high-dimensional observations?", "category": "stat.ML", "chunk_id": "25eae3bdc18b88eb482be745c950201e"}
+{"query": "What is the focus of the paper on 'Initialization Free Graph Based Clustering'?", "category": "stat.ML", "chunk_id": "195a54b79153923f1ad2ff02fbdf46a0"}
+{"query": "What is the focus of the text on content-based blog classification?", "category": "cs.IR", "chunk_id": "43c30b729843e29c08ce139560afe396"}
+{"query": "What is the new method proposed in the text for nonparametric regression that accommodates continuous and categorical inputs, and responses modeled by a generalized linear model?", "category": "stat.ML", "chunk_id": "9d1038972cd8d33e2ae39a2c54be42b3"}
+{"query": "What are some advantages of training Laplacian Support Vector Machines in the primal form compared to the dual formulation?", "category": "stat.ML", "chunk_id": "f49a51a3e09365498f188c63732a1a29"}
+{"query": "What is the main focus of the text chunk regarding inference problems and Gaussian variables?", "category": "stat.ML", "chunk_id": "2a8cbdb668340261eacd7717f0416c2e"}
+{"query": "What is the main focus of the paper on functional learning through kernels in the context of statistical learning theory?", "category": "stat.ML", "chunk_id": "805020cd6d6ed6c9936061cabdb8c410"}
+{"query": "What is the title of the withdrawn paper related to web crawling mentioned in the text chunk?", "category": "cs.IR", "chunk_id": "142d69f2349fcca7c4aac046240431f7"}
+{"query": "What is the focus of the paper on 'Information Retrieval via Truncated Hilbert-Space Expansions'?", "category": "cs.IR", "chunk_id": "82800d5b4bbc558757a847ac78924f6f"}
+{"query": "What is the focus of the study discussed in the text?", "category": "stat.ML", "chunk_id": "63c77df8f8a9467b6bac96e7187db829"}
+{"query": "What is the concept discussed in the text related to enriching content and user reindexing in information retrieval?", "category": "cs.IR", "chunk_id": "91f7701c735c77291765e0f3c05d874c"}
+{"query": "What is the proposed method in the text for inferring causal structures containing both discrete and continuous variables?", "category": "stat.ML", "chunk_id": "2b273c1e0ab986afb732dad43a434ede"}
+{"query": "What is the main focus of the text chunk on causal inference using additive noise models for discrete data?", "category": "stat.ML", "chunk_id": "2b098a7bf9fca58674ff89fc92599e02"}
+{"query": "What factors are used for filtering trustworthiness in the information retrieval system for web search engines discussed in the text?", "category": "cs.IR", "chunk_id": "939672dda02efb497b27f4da89dd092b"}
+{"query": "What is the key capability of Slow Feature Analysis (SFA) mentioned in the text?", "category": "stat.ML", "chunk_id": "ac96021f1afa5b8097ac4f24488f8db1"}
+{"query": "What probabilistic models are integrated into Lucene according to the text chunk?", "category": "cs.IR", "chunk_id": "1fec6ee52953377d9474471414178864"}
+{"query": "What method is used in the text chunk to address the computational and storage demands in modeling dependencies between multiple outputs?", "category": "stat.ML", "chunk_id": "5b4f4f8aa9c01411b1f4ffc1457484df"}
+{"query": "What is the focus of the text chunk regarding positive definite kernels in machine learning?", "category": "stat.ML", "chunk_id": "248268d3f3c5a474ee61344609eebe9f"}
+{"query": "What are the main concepts discussed in the text chunk regarding information retrieval?", "category": "cs.IR", "chunk_id": "2eef22bc634e32c250aaf17950a39044"}
+{"query": "What is the focus of the article on under-determined audio source separation in reverberant environments using a full-rank spatial covariance model?", "category": "stat.ML", "chunk_id": "1741d699f64df0dd30e708973ad3d19e"}
+{"query": "What is the focus of the research paper discussed in the text chunk?", "category": "cs.IR", "chunk_id": "35e4bf562fd6a9fa0212b57520e5d5aa"}
+{"query": "What is the main purpose of the tool described in the text chunk?", "category": "cs.IR", "chunk_id": "0096d02948bdf994ad00247e3339a753"}
+{"query": "What is the focus of the article regarding context and keyword extraction in plain text, and how is the method evaluated?", "category": "cs.IR", "chunk_id": "50f78a0dd17649affe0d8237771804c8"}
+{"query": "What is the focus of the paper on 'Hyper-sparse optimal aggregation'?", "category": "stat.ML", "chunk_id": "49da4e4314d6179452c57085f22c503d"}
+{"query": "What type of analysis is extended in the research paper on 'Multi-Way, Multi-View Learning'?", "category": "stat.ML", "chunk_id": "a3a31ef44908df1861bb60873318189d"}
+{"query": "What is the main focus of the text chunk regarding Gaussian processes and kernel methods?", "category": "stat.ML", "chunk_id": "b996ebd68711f8cd1a353ffc959e97d1"}
+{"query": "What concept is explored in the text chunk related to binary classification and class probability estimation?", "category": "stat.ML", "chunk_id": "3bffe9dddb458ea5e9dd2ae0c0a6886d"}
+{"query": "What is the main focus of the geometric proof of calibration mentioned in the text?", "category": "stat.ML", "chunk_id": "722f8f161db0be3a6215fb25d3ec2a4c"}
+{"query": "What techniques are mentioned in the text for addressing the shortcoming in Atom blogs and realizing futuristic blogs over the Internet?", "category": "cs.IR", "chunk_id": "8211df91b1a5d765c92dd1c008d2fe8a"}
+{"query": "What is the new process introduced for modeling layered, directed belief networks that are unbounded in depth and width in the text?", "category": "stat.ML", "chunk_id": "ecd55fcfed0d34729e00259b316166b3"}
+{"query": "What methods are proposed in the text for graph estimation and density estimation in high dimensions?", "category": "stat.ML", "chunk_id": "fb78853b343c838180036d22f126fc6e"}
+{"query": "What is the focus of the text chunk regarding the Perl Status Reporter (SRr) in text mining?", "category": "cs.IR", "chunk_id": "ed3173062b1e81f6eb4b5ab1fbcefdf7"}
+{"query": "What is the main subject of the paper discussed in the text?", "category": "cs.IR", "chunk_id": "65f9643270c465f5c250e14856371866"}
+{"query": "What is the focus of the current work described in the text chunk?", "category": "cs.IR", "chunk_id": "811133eaea53c42d2479eda275171998"}
+{"query": "What is the focus of the described method in constructing and enriching ontologies in the text chunk?", "category": "cs.IR", "chunk_id": "5e62763f85d711d54095174267bd2424"}
+{"query": "What is the focus of the method proposed by the authors in the text chunk?", "category": "cs.IR", "chunk_id": "bf3aea3fad93a131b1a31ba76d1a2ab9"}
+{"query": "What method is used to recover multiple subspaces in point clouds according to the text chunk?", "category": "stat.ML", "chunk_id": "5394e07e45d24a35a095e8b6fa3030c1"}
+{"query": "What did the authors test to determine whether they could predict a page's status based on the title?", "category": "cs.IR", "chunk_id": "9be6ed7af06ec4fbb1972259029f5b7e"}
+{"query": "What is the focus of exploring a multidimensional representation of documents and queries in the text?", "category": "cs.IR", "chunk_id": "6f78cadc6da0ddea6fc746f556cbf37e"}
+{"query": "What are some of the spectral properties discussed in the text regarding the Google matrix of directed networks?", "category": "cs.IR", "chunk_id": "5ce2d833a0a7ed493f2c6a873209180b"}
+{"query": "What is the novel method for Independent Component Analysis (ICA) discussed in the text chunk?", "category": "stat.ML", "chunk_id": "d3bd68af5d65426f6b27525882d11230"}
+{"query": "What technique was proposed in the text for improving term extraction accuracy in the domain of religious documents?", "category": "cs.IR", "chunk_id": "f55f7a75496091f7bb2a268ba6cddd8d"}
+{"query": "What technique is utilized for line and word segmentation in the text chunk?", "category": "cs.IR", "chunk_id": "6928c0ecec19942ceee943eecb2ce4ab"}
+{"query": "What is the focus of the security analysis discussed in the text chunk?", "category": "stat.ML", "chunk_id": "5c60c12da266b0e0fa98937f4ddb4739"}
+{"query": "What is the statistical model introduced in the text chunk for labelled documents and what are its applications?", "category": "stat.ML", "chunk_id": "6002f32637aa44714befeafab5e32a4e"}
+{"query": "What is the next generation information retrieval system design based on in the text chunk?", "category": "cs.IR", "chunk_id": "229f56b78cea49c366c709006fe61dbc"}
+{"query": "What techniques are used in the text for concept-based semantic information retrieval?", "category": "cs.IR", "chunk_id": "899694720472606c97dd4a9a5d1f4a81"}
+{"query": "What is the mechanism described in the text chunk to improve Information Retrieval (IR) on the web?", "category": "cs.IR", "chunk_id": "63ab862dbf263782c89cf02a6037cb75"}
+{"query": "What is the focus of the document clustering algorithm discussed in the text?", "category": "cs.IR", "chunk_id": "7d16745544b54435e90969f8392aac91"}
+{"query": "What problem does the text chunk focus on and what types of allocation strategies are proposed for it?", "category": "stat.ML", "chunk_id": "2f32bc3fef5ae409e6e75b54c0ec97fa"}
+{"query": "What is the main observation regarding the position bias in relation to the kind of information the user is looking for in the Examination Hypothesis study?", "category": "cs.IR", "chunk_id": "90a696b9ff5ce9d51cf563217646bb7d"}
+{"query": "What is the main focus of the text chunk about the Classified Ads Harvesting Agent and Notification System?", "category": "cs.IR", "chunk_id": "c7f76a6e5b9a792877375f12d9ebde5c"}
+{"query": "What is the proposed algorithm for feature selection in regularized least-squares (RLS) regression and classification, and how does it compare to previous methods in terms of speed and efficiency?", "category": "stat.ML", "chunk_id": "790614ef1196db331ed115d392a0d207"}
+{"query": "What method does the paper propose for computing reducts in data mining and how does it aim to reduce complexity?", "category": "cs.IR", "chunk_id": "ab147854ac2e3085359d4a65760aaa1f"}
+{"query": "What concept related to web pages and link analysis is introduced in the text?", "category": "cs.IR", "chunk_id": "dbda8e6a7885cfae874886554c42dfa6"}
+{"query": "What is the focus of the Schoenberg transformations in data analysis mentioned in the text?", "category": "stat.ML", "chunk_id": "5da5f78e52a5c9cd9294597676af36b4"}
+{"query": "What is the main focus of the text on 'Maximal Intersection Queries in Randomized Input Models'?", "category": "cs.IR", "chunk_id": "2fed5640b6584ce1987bbe5a3012a20a"}
+{"query": "What is the suggested use of a multidimensional scaling (MDS) algorithm in the context of manifold-valued elements in signal processing and machine learning?", "category": "stat.ML", "chunk_id": "b6f00ebb076cd7e8001b870f2dade9f9"}
+{"query": "What is the focus of the text chunk regarding Twitter relationships and rank prestige algorithms?", "category": "cs.IR", "chunk_id": "e5e04aad543297edfe6407d526da4832"}
+{"query": "What is the focus of preprocessing in the context of web usage data mining according to the text chunk?", "category": "cs.IR", "chunk_id": "397757500832caae70408bc656188fbe"}
+{"query": "What techniques are discussed in the text for improving the quality of clustering results in document clustering using the Sequential Information Bottleneck Method?", "category": "cs.IR", "chunk_id": "40be8393d37cf0f71df4693378236797"}
+{"query": "What is the key finding related to the stability of titles compared to the content of web pages in the text chunk?", "category": "cs.IR", "chunk_id": "5bf0660a1f7914a68853702b0365e1c5"}
+{"query": "What is the main focus of the paper on prototype-based clustering in probabilistic space?", "category": "stat.ML", "chunk_id": "5171086227ea0f71080cea3439dce83a"}
+{"query": "What method does the paper describe for keyphrase extraction and how does it perform compared to other approaches?", "category": "cs.IR", "chunk_id": "93fdd9b2ba404a94f07191fe2ebf0baf"}
+{"query": "What method is described in the text chunk for multi-document update summarization?", "category": "cs.IR", "chunk_id": "f80f3e4d15b063f3fac767076d582ccb"}
+{"query": "What algorithm is proposed in the text to handle overload conditions in real-time data stream applications, specifically in the Information Retrieval System of a web search engine?", "category": "cs.IR", "chunk_id": "046b559da66ff0a61495ff9e92dfacac"}
+{"query": "What is the main focus of the BiLingual Information Retrieval System discussed in the text?", "category": "cs.IR", "chunk_id": "67e6a7f68e9edb816a70bea22f02c563"}
+{"query": "What research project in the field of information retrieval experiments is discussed in the text chunk, and how is it conducted?", "category": "cs.IR", "chunk_id": "63f550027300d53b5ac9b484db784e54"}
+{"query": "What is the main focus of the text regarding spam filtering and re-ranking on a large web dataset?", "category": "cs.IR", "chunk_id": "98589f3fcec12702f99f127bb58e8ffa"}
+{"query": "What is the framework introduced for analyzing multivariate data in the research paper?", "category": "stat.ML", "chunk_id": "dd41ae70609a0b2855f72948c13eb33e"}
+{"query": "What novel approach is proposed in the text for fast similarity search through semantic hashing?", "category": "cs.IR", "chunk_id": "050cb1db478180e79623ce4b8931ae06"}
+{"query": "What clustering method is described in the text for labeled link networks, and how is it implemented?", "category": "cs.IR", "chunk_id": "d574162c19ada3f790c0054373954b6b"}
+{"query": "What new method is introduced for training linear ranking SVMs in the text chunk?", "category": "stat.ML", "chunk_id": "e4582513237f22b38bb1706090098883"}
+{"query": "What is the focus of the paper on 'Performance Oriented Query Processing In GEO Based Location Search Engines'?", "category": "cs.IR", "chunk_id": "76b46efea55d76584d8fd584cc77ca18"}
+{"query": "What improvement is described in the text chunk regarding the Johnson-Lindenstrauss Lemma?", "category": "stat.ML", "chunk_id": "d465ba6645239ed2692f69e826e39a8d"}
+{"query": "What are the key findings related to the approximation capabilities of Restricted Boltzmann Machines (RBMs) and Deep Belief Networks (DBNs) discussed in the text?", "category": "stat.ML", "chunk_id": "b43a6c94dbff6708a8537633ef1c3073"}
+{"query": "What is the main focus of the text chunk regarding time series data streams and data mining?", "category": "cs.IR", "chunk_id": "f9336f761dec8d242da2e7001d045bda"}
+{"query": "What is the main focus of the approach discussed in the text?", "category": "cs.IR", "chunk_id": "b229711adf41f5a07be0f46c829b4666"}
+{"query": "What is the focus of the paper on 'On the Fly Query Entity Decomposition Using Snippets'?", "category": "cs.IR", "chunk_id": "f6c1ab6baef2a0fa8a0cb32c385ed234"}
+{"query": "What is the main focus of the algorithm described in the text chunk?", "category": "cs.IR", "chunk_id": "18b930df2ec2263851009ca372d9f72b"}
+{"query": "What is the new stability-based method introduced in the text for choosing the regularization parameter in high-dimensional graphical models, and how does it compare to traditional techniques like $K$-fold cross-validation, AIC, and BIC?", "category": "stat.ML", "chunk_id": "b73eb261270c70d72e1dcbc04ccf7184"}
+{"query": "What is the system mentioned in the text that is designed for annotating short textual fragments like search-engine results, tweets, news, etc?", "category": "cs.IR", "chunk_id": "45c4a017e99bcad9792fced7537c699e"}
+{"query": "What approach is suggested in the text to address the difficulty of density modeling for high dimensional data using Gaussian Process Latent Variable Models (GPLVM)?", "category": "stat.ML", "chunk_id": "374667abb04c0765ec4dbc5dc0bc19f0"}
+{"query": "What are the three algorithms proposed in the text for ascertaining the merit of a document?", "category": "cs.IR", "chunk_id": "7143998bd3584a3e06046ea615bf73bb"}
+{"query": "What is the focus of the study discussed in the text chunk?", "category": "cs.IR", "chunk_id": "f94b1937e8e924397ddaaedc0b8b8f98"}
+{"query": "What are some key aspects discussed in the text regarding image retrieval approaches, challenges, and future directions?", "category": "cs.IR", "chunk_id": "da00685819bc198c0b4476afc254c4bf"}
+{"query": "What is the main contribution of the novel influence model discussed in the text chunk?", "category": "cs.IR", "chunk_id": "a18088fc4566d651fa148b2c67cb0589"}
+{"query": "What concept does the text chunk discuss regarding distances on weighted graphs and their application in clustering?", "category": "stat.ML", "chunk_id": "8bd44c7adbc4e09b4a7b467ea58b3233"}
+{"query": "What approach is commonly used to select the number of clusters according to the text chunk?", "category": "stat.ML", "chunk_id": "5eac617277a045bea2e1cde8be08648a"}
+{"query": "What innovative approach is introduced in the text to enable the definition of continuous distributions over permutations?", "category": "stat.ML", "chunk_id": "12f48d3e10db1b56be20032e3eae9c5f"}
+{"query": "What is the focus of the paper on Reduced Rank Vector Generalized Linear Models for Feature Extraction?", "category": "stat.ML", "chunk_id": "3b3a12fc028f1446e4110131cec31fd9"}
+{"query": "What is the focus of the text chunk regarding Support Vector Machines (SVMs) design for additive models?", "category": "stat.ML", "chunk_id": "47129f646de9fef3e2d0104c5bc85f52"}

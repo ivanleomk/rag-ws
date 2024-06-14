@@ -23,3 +23,13 @@ class EmbeddedPassageWithMetadata(LanceModel):
     text: str = func.SourceField()
     keywords: str
     search_queries: str
+
+
+class ArxivPaper(LanceModel):
+    title: str
+    authors: str
+    category: str
+    abstract: str
+    text: str = func.SourceField()
+    vector: Vector(func.ndims()) = func.VectorField(default=None)
+    chunk_id: str

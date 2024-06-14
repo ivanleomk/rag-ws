@@ -17,10 +17,22 @@ def calculate_reciprocal_rank(predictions, labels):
     return 0
 
 
-metrics = {"mrr": calculate_reciprocal_rank, "recall": calculate_recall}
+def calculate_precision(predictions, labels):
+    # Goal is to find how many relevant items
+    correct_predictions = sum(1 for prediction in predictions if prediction in labels)
+    if correct_predictions > 0:
+        return correct_predictions / len(predictions)
+    return 0
 
 
-def score(preds, label: str | list[str]):
+metrics = {
+    "mrr": calculate_reciprocal_rank,
+    "recall": calculate_recall,
+    "precision": calculate_precision,
+}
+
+
+def score(preds, label: str | list[str], scoring_fns: list[str] = metrics.keys()):
     return {
         f"{fn_name}@{size}": round(
             metrics[fn_name](
@@ -28,5 +40,5 @@ def score(preds, label: str | list[str]):
             ),
             3,
         )
-        for fn_name, size in product(metrics.keys(), SIZES)
+        for fn_name, size in product(scoring_fns, SIZES)
     }
