@@ -42,3 +42,6 @@ def score(preds, label: str | list[str], scoring_fns: list[str] = metrics.keys()
         )
         for fn_name, size in product(scoring_fns, SIZES)
     }
+
+import braintrust
+braintrust.init
