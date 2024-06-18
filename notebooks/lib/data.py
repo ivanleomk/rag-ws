@@ -124,7 +124,7 @@ def generate_test_labels(labels, has_single_label: bool):
                 res.append(
                     {
                         "query": row["query"],
-                        "selected_chunk_id": passage["chunk_id"],
+                        "selected_chunk_ids": passage["chunk_id"],
                     }
                 )
         else:

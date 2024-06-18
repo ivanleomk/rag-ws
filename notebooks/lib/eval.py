@@ -1,4 +1,5 @@
 from itertools import product
+from typing import Callable
 
 SIZES = [3, 5, 10, 15, 25]
 
@@ -25,23 +26,18 @@ def calculate_precision(predictions, labels):
     return 0
 
 
-metrics = {
-    "mrr": calculate_reciprocal_rank,
-    "recall": calculate_recall,
-    "precision": calculate_precision,
-}
-
-
-def score(preds, label: str | list[str], scoring_fns: list[str] = metrics.keys()):
+def score_retrieval(
+    preds: list[str],
+    label: str | list[str],
+    sizes: list[int],
+    scoring_fns: dict[str, Callable[[list[str], list[str]], float]],
+):
     return {
         f"{fn_name}@{size}": round(
-            metrics[fn_name](
+            scoring_fns[fn_name](
                 preds[:size], [label] if isinstance(label, str) else label
             ),
             3,
         )
-        for fn_name, size in product(scoring_fns, SIZES)
+        for fn_name, size in product(scoring_fns.keys(), sizes)
     }
-
-import braintrust
-braintrust.init
