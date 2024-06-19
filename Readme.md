@@ -16,14 +16,20 @@ uv venv venv
 uv pip install -r requirements.txt
 ```
 
-3. Add your new kernel to the jupyerlab runtime
+3. Run setup.py so that you can get the requirements configured nicely
+
+```bash
+python3 ./notebooks/setup.py
+```
+
+4. Add your new kernel to the jupyerlab runtime
 
 ```bash
 python -m ipykernel install --user --name=rag_workshop --display-name="Rag Workshop"
 ```
 
-4. Start Jupyter Lab and start working
+5. Start Jupyter Lab and start working
 
 ```bash
-jupyter lab
+jupyter notebook
 ```
